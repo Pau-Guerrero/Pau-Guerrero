@@ -23,10 +23,9 @@ Em considero una persona **tranquil·la, amigable i organitzada**, amb ganes con
 ## 💻 Tech & Tools
 
 ### 🧰 Eines
-
-<https://img.shields.io/badge/-Git-000?style=flat&logo=git>  
-<https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode>  
-<https://img.shields.io/badge/-Figma-A259FF?style=flat&logo=figma>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=white)
 
 ### ⚙️ Tecnologies i entorn
 
