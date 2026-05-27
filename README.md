@@ -85,7 +85,6 @@ class PauGuerrero:
 
 </div>
 
-> *(Segueixo treballant per ampliar el meu portfolio amb projectes personals de Python i IA 🤖)*
 
 ***
 
