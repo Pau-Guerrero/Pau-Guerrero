@@ -1,80 +1,117 @@
-# 👋 Hey! Sóc Pau Guerrero Bossy
+<div align="center">
 
-🎓 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)  
-🚀 Proper pas: DAM (Desenvolupament d’Aplicacions Multiplataforma)  
-🎯 Objectiu: ser **Enginyer d’Intel·ligència Artificial**
+<!-- ANIMACIÓN DE ESCRITURA -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hola,+soc+Pau+Guerrero;Estudiant+de+SMX" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+🎓 Estudiant de **SMX** | 🚀 Següent pas: **DAM** | 🎯 Objectiu: **Intel·ligència Artificial**
+
+<br/>
+
+<!-- GADGETS DE ESTADÍSTICAS (Ahora al hacer clic llevan a tu perfil, no a la API) -->
+<a href="https://github.com/Pau-Guerrero">
+</a>
+<a href="https://github.com/Pau-Guerrero">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pau-Guerrero&theme=tokyonight&hide_border=true&title=🔥%20Ratxa%20actual" alt="GitHub Streak" height="420"/>
+</a>
+
+</div>
 
 ***
 
 ## 🧠 Sobre mi
 
-Em dic Pau, tinc 17 anys i sóc de Barcelona 🇪🇸
+Em dic Pau, tinc 17 anys i sóc de Barcelona 🇪🇸. Sóc un apassionat de la tecnologia amb una curiositat inacabable.
 
-Sóc un apassionat de la tecnologia, especialment tot el que té a veure amb:
+```python
+class PauGuerrero:
+    def __init__(self):
+        self.edat = 17
+        self.ciutat = "Barcelona"
+        self.objectiu_laboral = "Tècnic d'IA"
+    
+    def personalitat(self):
+        return ["Tranquil·la", "Amigable", "Organitzada", "Constant"]
+        
+    def hobbies(self):
+        return ["Esports", "Música", "Videojocs", "Amics"]
+```
 
-* 💻 ordinadors
-* 🌐 xarxes
-* 🧠 desenvolupament i IA
-
-Em considero una persona **tranquil·la, amigable i organitzada**, amb ganes constants d’aprendre i aplicar els coneixements en projectes reals.
+🌟 **Dades sobre mi:**
+* 💻 Obsessionat amb l'arquitectura d'ordinadors i el rendiment.
+* 🌐 Apassionat de la progamacio i de l'informàtica.
+* 🧠 Objectiu laboral: treballar com a **Tècnic d'Intel·ligència Artificial**.
+* ⚡ Fora de la pantalla: m'encanten els esports, escoltar música, jugar a algun videojoc i, sobretot, quedar i gaudir del dia amb els amics.
 
 ***
 
 ## 💻 Tech & Tools
 
-### 🧰 Eines
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=white)
+### 🧰 Eines i Tecnologies
 
-### ⚙️ Tecnologies i entorn
+<div align="center">
 
-* 🐍 Python
-* 🐧 Linux / 🪟 Windows
-* 🧪 VirtualBox
-* 📡 Wireshark
-* 🌐 Kea DHCP
-* 🔧 Git & GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+### ⚙️ Entorns i Protocols
+* 🐧 Administració de sistemes Linux i Windows
+* 📡 Anàlisi de tràfic amb Wireshark
+* 🌐 Configuració de Kea DHCP
+* 🧪 Virtualització i entorns de proves
 
 ***
 
 ## 🚀 Projectes destacats
 
-📌 La majoria dels meus projectes són acadèmics, però representen molt bé les meves habilitats i evolució.
+📌 La majoria dels meus projectes són acadèmics, però representen la meva evolució i habilitats professionals.
 
-🔥 **Projectes més treballats:**
+<div align="center">
 
-* 🧩 **Projecte 7**  
-  👉 <https://github.com/classesSMX2n/projecte-7-Pau-Guerrero-1>
+[![Projecte 7 - FoodLogístic S.A.](https://img.shields.io/badge/Projecte_7-FoodLogístic_S.A.-blue?style=for-the-badge&logo=github)](https://github.com/classesSMX2n/projecte-7-Pau-Guerrero-1)
+[![Projecte 6 - Projecte Nexus](https://img.shields.io/badge/Projecte_6-Projecte_Nexus-purple?style=for-the-badge&logo=github)](https://github.com/classesSMX2n/projecte6-Pau-Guerrero)
 
-* ⚙️ **Projecte 6**  
-  👉 <https://github.com/classesSMX2n/projecte6-Pau-Guerrero>
+</div>
 
-*(Segueixo treballant per ampliar el meu portfolio amb nous projectes)*
-
-***
-
-## 🌍 Contacte
-
-📧 <alu.pau.guerrero@mataro.epiaedu.cat>  
-💻 [GitHub](https://github.com/PauGuerrero)
+> *(Segueixo treballant per ampliar el meu portfolio amb projectes personals de Python i IA 🤖)*
 
 ***
 
 ## 🌍 Idiomes
 
-* Català → nadiu
-* Castellà → nadiu
-* Anglès → intermedi
+| 🇪🇸 Castellà | 🇪🇸 Català | 🇬🇧 Anglès |
+|:---:|:---:|:---:|
+| Nadiu | Nadiu | Intermedi |
 
 ***
 
 ## 🎯 Objectiu professional
 
-Estic construint una base sòlida en sistemes i desenvolupament amb la intenció d’especialitzar-me en:
+El meu objectiu laboral és convertir-me en **Tècnic d'Intel·ligència Artificial**. Per aconseguir-ho, estic construint una base sòlida en sistemes i desenvolupament:
 
-🧠 Intel·ligència Artificial  
-⚙️ Desenvolupament de software  
-📈 Aprenentatge constant
+🧠 **Especialització en Intel·ligència Artificial** & Machine Learning  
+⚙️ **Desenvolupament de software** multiplataforma (DAM)  
+📈 **Aprenentatge constant** i resolució de problemes reals
 
 ***
+
+## 📫 Contacte
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-alu.pau.guerrero@mataro.epiaedu.cat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alu.pau.guerrero@mataro.epiaedu.cat)
+[![GitHub](https://img.shields.io/badge/GitHub-PauGuerrero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauGuerrero)
+
+</div>
