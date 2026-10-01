@@ -2,13 +2,13 @@
 
 <!-- ANIMACIÓN DE ESCRITURA -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hola,+soc+Pau+Guerrero;Estudiant+de+SMX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hola,+soc+Pau+Guerrero;Estudiant+de+DAM" alt="Typing SVG" />
 </a>
 
 <br/>
 <br/>
 
-🎓 Estudiant de **SMX** | 🚀 Següent pas: **DAM** | 🎯 Objectiu: **Intel·ligència Artificial**
+🎓 Estudiant de **DAM** |  🎯 Objectiu: **Intel·ligència Artificial/ Desarrollador de software**
 
 <br/>
 
@@ -25,26 +25,40 @@
 
 ## 🧠 Sobre mi
 
-Em dic Pau, tinc 17 anys i sóc de Barcelona 🇪🇸. Sóc un apassionat de la tecnologia amb una curiositat inacabable.
+Em dic Pau, tinc 17 anys i sóc de Sant Andreu de Llavaneres. Sóc un apassionat de la programació.
 
-```python
-class PauGuerrero:
-    def __init__(self):
-        self.edat = 17
-        self.ciutat = "Barcelona"
-        self.objectiu_laboral = "Tècnic d'IA"
-    
-    def personalitat(self):
-        return ["Tranquil·la", "Amigable", "Organitzada", "Constant"]
-        
-    def hobbies(self):
-        return ["Esports", "Música", "Videojocs", "Amics"]
+```java
+public class PauGuerrero {
+
+    private int edat = 17;
+    private String ciutat = "Barcelona";
+    private String objectiuLaboral = "Tècnic d'IA";
+
+    public String[] personalitat() {
+        return new String[]{
+            "Tranquil·la",
+            "Amigable",
+            "Organitzada",
+            "Constant"
+        };
+    }
+
+    public String[] hobbies() {
+        return new String[]{
+            "Esports",
+            "Música",
+            "Videojocs",
+            "Amics"
+        };
+    }
+}
 ```
+
 
 🌟 **Dades sobre mi:**
 * 💻 Obsessionat amb l'arquitectura d'ordinadors i el rendiment.
 * 🌐 Apassionat de la progamacio i de l'informàtica.
-* 🧠 Objectiu laboral: treballar com a **Tècnic d'Intel·ligència Artificial**.
+* 🧠 Objectiu laboral: treballar com a **Tècnic d'Intel·ligència Artificial o Desarrollador de software**.
 * ⚡ Fora de la pantalla: m'encanten els esports, escoltar música, jugar a algun videojoc i, sobretot, quedar i gaudir del dia amb els amics.
 
 ***
